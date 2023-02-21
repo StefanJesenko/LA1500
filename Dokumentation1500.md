@@ -23,8 +23,16 @@ Wir haben vor ein 2D jump and run in Unity zu machen, wir haben uns gedacht, das
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |Muss             |Funktional|Als User möchte ich, dass wenn ich das Spiel starte, dass ich dann in einem Level bin und mich bewegen kann, damit ich das Spiel spielen kann.|
+| 2    |Muss             |Funktional|Als User möchte ich, dass mein Charakter springen kann, damit ich mich auch Vertikal in der Spielwelt bewegen kann.|
+| 3    |Muss             |Funktional|Als User möchte ich, dass wenn ich das Ende des Levels erreiche, dass das Spiel fertig ist, damit ich das Spiel auch durchspielen kann.|
+| 4    |Kann             |Qualität|Als User möchte ich, dass die Plattformen Texturen haben, damit das Spiel für mich schöner aussieht.|
+| 5    |Kann             |Qualität|Als User möchte ich, dass es Gegner gibt, damit das Spiel für mich schwieriger ist.|
+| 6    |Kann             |Qualität|Als User möchte ich, dass ich eine Waffe habe, damit ich gegen die Gegner kämpfen kann.|
+| 7    |Kann             |Qualität|Als User möchte ich, dass wenn ich ein Level fertig gespielt habe dass ich ins nächste Level komme.|
+| 8    |Kann             |Qualität|Als User möchte ich, dass jedes Level ein anderes Thema hat, damit das Spiel für mich interessanter wird.|
+| 9    |Kann             |Qualität|Als User möchte ich, dass es bewegende Plattformen gibt, damit das Spiel für mich interessanter wird.|
+|10    |Kann             |Qualität|Als User möchte ich, dass ich am Anfang auswählen kann, welches Level ich spielen will.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
