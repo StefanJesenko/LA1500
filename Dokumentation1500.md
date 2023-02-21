@@ -31,6 +31,7 @@ Wir haben vor ein 2D jump and run in Unity zu machen, wir haben uns gedacht, das
 | 8    |Kann             |Qualität|Als User möchte ich, dass jedes Level ein anderes Thema hat, damit das Spiel für mich interessanter wird.|
 | 9    |Kann             |Qualität|Als User möchte ich, dass es bewegende Plattformen gibt, damit das Spiel für mich interessanter wird.|
 |10    |Kann             |Qualität|Als User möchte ich, dass ich am Anfang auswählen kann, welches Level ich spielen will.|
+|11    |Kann             |Qualität|Als User möchte ich, dass wenn ich ein Level fertig habe das ich ein neues Level auswählen kann oder das Level nöchmal in einer schwereren Version spielen kann, damit das Spiel interessanter ist.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
