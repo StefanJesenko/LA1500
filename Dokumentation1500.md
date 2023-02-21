@@ -48,7 +48,7 @@ Wir haben vor ein 2D jump and run in Unity zu machen, wir haben uns gedacht, das
 
 
 ![Hauptprogramm 1](https://user-images.githubusercontent.com/110892382/220314476-1f001869-6247-4a86-bf20-a62031ee233b.png)
-
+![Screenshot 2023-02-21 113049](https://user-images.githubusercontent.com/110892658/220320087-f3a02e93-4715-4e55-99af-3b027f15ebfb.png)
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
