@@ -16,7 +16,8 @@ Puppy Jesenko, Oesch, Spycher und Veljkovic
 
 Wir machen ein 2D jump and run in Unity.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+ 
+Wir haben vor ein 2D jump and run in Unity zu machen, wir haben uns gedacht, dass wir zuerst ein kleines 2D spiel, machen, indem ein Spieler von Plattform zu Plattform springen kann, wenn wir das geschafft haben, ist unser Ziel das wir ein 2D Jump and Run machen mit mehreren Leveln indem es Gegner gibt, die der Spieler auch bekämpfen kann. Unser Ziel ist es dabei zu lernen wie man ein Spiel in Unity programmiert.
 
 ### 1.2 User Stories
 
