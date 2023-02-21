@@ -14,7 +14,7 @@ Puppy Jesenko, Oesch, Spycher und Veljkovic
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir machen ein 2D jump and run in Unity.
 
 ✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 
