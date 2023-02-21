@@ -1,7 +1,5 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
 Poppy Jesenko, Oesch, Spycher und Veljkovic
 
 | Datum | Version | Zusammenfassung                                              |
