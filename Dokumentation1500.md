@@ -75,6 +75,7 @@ Wir haben vor ein 2D jump and run in Unity zu machen, wir haben uns gedacht, das
 
 
 ![Hauptprogramm 1](https://user-images.githubusercontent.com/110892382/220314476-1f001869-6247-4a86-bf20-a62031ee233b.png)
+![Screenshot 2023-02-28 104558](https://user-images.githubusercontent.com/110892658/221815476-4e0ddd37-98c8-47c1-acc5-87ff822e8b07.png)
 
 ## 2 Planen
 
@@ -128,6 +129,7 @@ Wir haben uns dazu entschieden, das wir keine weiteren Funktionen hinzufügen, w
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
+
 | 1.1  |       |          |        |
 | ...  |       |          |        |
 
