@@ -94,7 +94,7 @@ Wir haben vor ein 2D jump and run in Unity zu machen, wir haben uns gedacht, das
 | 9.A  |14.03.2023|Oesch|Bewegendeplattformen erstellen.|45min|
 |10.A  |14.03.2023|Jesenko|Start Level Menü|45min|
 |11.A  |14.03.2023|Spycher|Auswahl schwereres Level|45min|
-|12.A  |14.03.2023|Jesenko|Mehrere Waffen hinzufügen.|
+|12.A  |14.03.2023|Jesenko|Mehrere Waffen hinzufügen.|45min|
 |13.A  |21.03.2023|Spycher|Healthbar hinzufügen.|45min|
 |14.A  |21.03.2023|Jesenko|Shopkeeper Menü hinzufügen.|45min|
 |14.B  |21.03.2023|Jesenko|Items im Shopkeeper Menü hinzufügen.|45min|
