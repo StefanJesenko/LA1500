@@ -5,7 +5,7 @@ Poppy Jesenko, Oesch, Spycher und Veljkovic
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |21.02.2022| 0.0.1|Wir haben uns heute zuerst etwas in der Gruppe kennengelernt, in einer zweiten Phase haben wir uns entschieden, dass wir ein 2D jump and run spiel machen wollen.|
-|28.02.2022| 0.0.2|  WIr haben an unserem Projekt weitergearbeitet und die Dokumentation weiter bearbeitet.|
+|       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -36,7 +36,7 @@ Wir haben vor ein 2D jump and run in Unity zu machen, wir haben uns gedacht, das
 |13    |Kann             |Qualität|Als User möchte ich, dass man eine Healthbar hat, damit man sterben kann aber nicht direkt stirbt.|
 |14    |Kann             |Qualität|Als User möchte ich, dass es einen Shopkeeper gibt bei dem man neue Items, Heilung und anderes gibt, damit .|
 |15    |Kann             |Qualität|Als User möchte ich, dass die Gegner eine Währung dropen die man aufsammeln kann und verwenden kann, damit man stärker wird.|
-|16    |Kann             |Qualität|Als User möchte ich, dass es einen Gegener gibt der auf edn Spieler zuläuft und sich dann selbst in die Luft jagt, damit man ausweichen muss.|
+|16    |Kann             |Qualität|Als User möchte ich, dass es einen Gegener gibt der auf ein Spieler zuläuft und sich dann selbst in die Luft jagt, damit man ausweichen muss.|
 |17    |Kann             |Qualität|Als User möchte ich, dass es einen Gegener gibt der fliegt und von weit weg schiesst, damit man zielen muss.|
 
 
@@ -47,21 +47,30 @@ Wir haben vor ein 2D jump and run in Unity zu machen, wir haben uns gedacht, das
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1 |      Spiel gestartet        |     -    |         Spieler erscheint in einer Spielwelt.         |
-| 2.1 |      Spiel wurde gestartet       |     A/D gedrückt    |          A -> Spieler läuft nach links, D -> Spieler läuft nach rechts.         |
-| 3.2 |      Spiel wurde gestartet        |    Spacebar wurde gedrückt     |         Spieler springt vom Boden in die Luft und fällt wieder nach unten.          |
-| 4.3 |   Spiel wurde seit einiger Zeit gespielt und alle Anforderungen sind erfüllt |   Level verlassen durch Tür oder Ähnliches |  Spieler wird gelobt.        |
-| 5.4 |   Spiel gestartet           |     -    |          Texturen sichtbar         |
-| 6.5 |   Spiel gestartet und sich durch das Level bewegt.           |     A/D/Space    |          Monster erscheinen und greifen Spieler an.         |
-| 7.6 |   Waffe eingesammelt           |    Linksklick/Rechtsklick     |     Waffe verursacht Schaden an Gegnern und kann diese Töten.          |
-| 8.7 |   Level abgeschlossen           |    -     |          Spieler wird wieder ins Menu gebracht um ein neues Level zu spielen.         |
-| 9.8 |   Level wird gestartet           |    -     |      Map              |
-| 2. |              |         |                   |
-| 2. |              |         |                   |
-| 2.  |              |         |                   |
-| 2.  |              |         |                   |
-| 2.  |              |         |                   |
-| 2.  |              |         |                   |
-| 2.  |              |         |                   |
+| 1.2 |      Spiel wurde gestartet       |     A/D gedrückt    |          A -> Spieler läuft nach links, D -> Spieler läuft nach rechts.         |
+| 2.1 |      Spiel wurde gestartet        |    Spacebar wurde gedrückt     |         Spieler springt vom Boden in die Luft und fällt wieder nach unten.          |
+| 3.1 |   Spiel wurde seit einiger Zeit gespielt und alle Anforderungen sind erfüllt |   Level verlassen durch Tür oder Ähnliches |  Spieler wird gelobt.        |
+| 4.1 |   Spiel gestartet           |     -    |          Texturen sichtbar         |
+| 5.1 |   Spiel gestartet und sich durch das Level bewegt.           |     A/D/Space    |          Monster erscheinen        | 
+| 6.1 |   Waffe eingesammelt           |    Linksklick/Rechtsklick     |     Waffe verursacht Schaden an Gegnern und kann diese Töten.          |
+| 7.1 |   Level abgeschlossen           |    -     |          Spieler wird wieder ins Menu gebracht um ein neues Level zu spielen.         |
+| 8.1 |   Level wird gestartet           |    -     | Level hat ein anderes Thema als das letzte Level.|
+| 9.1 |   Spieler spielt Spiel| - |Plattform bewegt sich|
+|10.1 | Spieler startet das Spiel| - |Level auswahl erscheint|
+|11.1 | Spieler beendet Level| - |Level auswahl erscheint|
+|12.1 | Spieler spielt Spiel|Taste für Waffe 1 wird gedrückt.|Schwert wird ausgewählt.|
+|12.2 | Spieler spielt Spiel|Taste für Waffe 2 wird gedrückt.|Bogen wird ausgewählt.|
+|13.1 | Spieler spielt Spiel| - |Healthbar wird angezeigt.|
+|13.2 | Spieler spielt Spiel| Spieler wird von Monster getroffen.| Healthbar wird nimmt ab.|
+|14.1 | Spieler geht zu Shopkeeper| Spieler drückt die interagieren Taste bei dem Shopkeeper|Shopmenü erscheint.|
+|14.2 | Spieler ist im Shopkeeper menü| Spieler drückt auf z.B. Heilung| Heilung wird dem Inventar des Spielers hinzugefügt.|
+|15.1 | Spieler spielt Spiel| Spieler tötet Monster. |Monster lässt Währung fallen.|
+|16.1 | Spieler spielt Spiel| - | Monster läuft zu Spieler.|
+|16.2 | Spieler spielt Spiel| Spieler ist nahe am Monster.| Monster explodiert.|
+|17.1 | Spieler spielt Spiel| - | Monster fliegt in der Luft.|
+|17.2 | Spieler spielt Spiel| Spieler ist in der Nähe des Monsters.| Monster schiesst Pfeile.|
+
+
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
@@ -73,12 +82,27 @@ Wir haben vor ein 2D jump and run in Unity zu machen, wir haben uns gedacht, das
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   28.02.2023    |     Jasenko      |       Grundlegenes Movement und Kollisionen       |        60 min       |
-| 2.B  |   28.02.2023    |     Jasenko      |       Springen bei Spacebar       |       30 min        |
-| 3.C  |   28.02.2023    |           |              |               |
-| 1.D  |   28.02.2023    |           |              |               |
-| 1.E  |   28.02.2023    |           |              |               |
-| 1.F  |   28.02.2023    |           |              |               |
+| 1.A  |28.02.2023|Jesenko|Spieler kann sich in der Welt bewegen.|45min|
+| 2.A  |28.02.2023|Jesenko|Spieler kann Springen.|45min|
+| 3.A  |07.03.2023|Veljkovic|Level kann beendet werden|45min|
+| 4.A  |07.03.2023|Spycher|Texturen hinzufügen.|2x 45min|
+| 5.A  |07.03.2023|Oesch|Gegner hinzufügen.|45min|
+| 5.B  |07.03.2023|Oesch|Gegner Varianten hinzufügen.|45min|
+| 6.A  |07.03.2023|Jesenko|Waffe hinzufügen.|45min|
+| 7.A  |07.03.2023|Jesenko|Level Menü|45min|
+| 8.A  |14.03.2023|Veljkovic|Level Themas erstellen.|45min|
+| 9.A  |14.03.2023|Oesch|Bewegendeplattformen erstellen.|45min|
+|10.A  |14.03.2023|Jesenko|Start Level Menü|45min|
+|11.A  |14.03.2023|Spycher|Auswahl schwereres Level|45min|
+|12.A  |14.03.2023|Jesenko|Mehrere Waffen hinzufügen.|
+|13.A  |21.03.2023|Spycher|Healthbar hinzufügen.|45min|
+|14.A  |21.03.2023|Jesenko|Shopkeeper Menü hinzufügen.|45min|
+|14.B  |21.03.2023|Jesenko|Items im Shopkeeper Menü hinzufügen.|45min|
+|15.A  |21.03.2023|Veljkovic|Gegner lassen Währung fallen.|45min|
+|15.B  |21.03.2023|Veljkovic| Währung kann aufgesammelt werden.|45min|
+|16.A  |21.03.2023|Jesenko| Verfolgender Gegner.|45min|
+|17.A  |21.03.2023|Oesch| Fliegender Gegner.|45min|
+
 
 Total: 
 
@@ -89,6 +113,7 @@ Total:
 ## 3 Entscheiden
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns dazu entschieden, das wir keine weiteren Funktionen hinzufügen, weil die Umsetzung des Spiels in dieser Version sicher schon eine nicht ganz einfache Aufgabe wird.
 
 ## 4 Realisieren
 
