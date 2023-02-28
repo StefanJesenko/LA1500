@@ -5,7 +5,7 @@ Poppy Jesenko, Oesch, Spycher und Veljkovic
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |21.02.2022| 0.0.1|Wir haben uns heute zuerst etwas in der Gruppe kennengelernt, in einer zweiten Phase haben wir uns entschieden, dass wir ein 2D jump and run spiel machen wollen.|
-|       | ...     |                                                              |
+|28.02.2022| 0.0.2|  WIr haben an unserem Projekt weitergearbeitet und die Dokumentation weiter bearbeitet.|
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -73,8 +73,12 @@ Wir haben vor ein 2D jump and run in Unity zu machen, wir haben uns gedacht, das
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |   28.02.2023    |     Jasenko      |       Grundlegenes Movement und Kollisionen       |        60 min       |
+| 2.B  |   28.02.2023    |     Jasenko      |       Springen bei Spacebar       |       30 min        |
+| 3.C  |   28.02.2023    |           |              |               |
+| 1.D  |   28.02.2023    |           |              |               |
+| 1.E  |   28.02.2023    |           |              |               |
+| 1.F  |   28.02.2023    |           |              |               |
 
 Total: 
 
