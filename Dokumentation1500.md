@@ -40,7 +40,6 @@ Wir haben vor ein 2D jump and run in Unity zu machen, wir haben uns gedacht, das
 |17    |Kann             |Qualität|Als User möchte ich, dass es einen Gegener gibt der fliegt und von weit weg schiesst, damit man zielen muss.|
 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
@@ -71,7 +70,6 @@ Wir haben vor ein 2D jump and run in Unity zu machen, wir haben uns gedacht, das
 |17.2 | Spieler spielt Spiel| Spieler ist in der Nähe des Monsters.| Monster schiesst Pfeile.|
 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
