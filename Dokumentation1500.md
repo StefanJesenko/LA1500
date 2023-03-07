@@ -123,7 +123,7 @@ Wir haben uns dazu entschieden, das wir keine weiteren Funktionen hinzufügen, w
 | 2.A  |28.02.2023|Jesenko|   |45min|
 | 3.A  |07.03.2023|Veljkovic|   |45min|
 | 4.A  |07.03.2023|Spycher|  |2x 45min|
-| 5.A  |07.03.2023|Oesch| |45min|
+| 5.A  |07.03.2023|Jesenko|30min|45min|
 | 5.B  |07.03.2023|Oesch| |45min|
 | 6.A  |07.03.2023|Jesenko|  |45min|
 | 7.A  |07.03.2023|Jesenko|  |45min|
@@ -132,7 +132,7 @@ Wir haben uns dazu entschieden, das wir keine weiteren Funktionen hinzufügen, w
 |10.A  |14.03.2023|Jesenko|  |45min|
 |11.A  |14.03.2023|Spycher|  |45min|
 |12.A  |14.03.2023|Jesenko|  |45min|
-|13.A  |21.03.2023|Spycher|  |45min|
+|13.A  |21.03.2023|Spycher|45min|45min|
 |14.A  |21.03.2023|Jesenko|  |45min|
 |14.B  |21.03.2023|Jesenko|  |45min|
 |15.A  |21.03.2023|Veljkovic|  |45min|
