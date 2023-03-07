@@ -6,7 +6,7 @@ Poppy Jesenko, Oesch, Spycher und Veljkovic
 | ----- | ------- | ------------------------------------------------------------ |
 |21.02.2022| 0.0.1|Wir haben uns heute zuerst etwas in der Gruppe kennengelernt, in einer zweiten Phase haben wir uns entschieden, dass wir ein 2D jump and run spiel machen wollen.|
 | 28.02.2022      | 0.0.2     |   Wir haben die User Stories, Testfälle und Planen fertiggestellt und haben schon mit dem Realisieren begonnen.    |
-| 07.03.2022      | 0.0.3     |   Wir haben die ersten Level designt, der Spieler hat jetzt eine Healthbar und wir hatten am anfang viel Probleme beim sharen des Programms es hat viel zeit gekostet.   |
+| 07.03.2022      | 0.0.3     |   Wir haben die ersten Level designt, der Spieler hat jetzt eine Health Bar und wir hatten am Anfang viel Probleme beim Sharen des Projekts. |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
