@@ -121,14 +121,14 @@ Wir haben uns dazu entschieden, das wir keine weiteren Funktionen hinzufügen, w
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |28.02.2023|Jesenko|45min|30min|
 | 2.A  |28.02.2023|Jesenko|45min|30min|
-| 3.A  |07.03.2023|Veljkovic|45min| |
-| 4.A  |07.03.2023|Spycher|2x 45min| |
+| 3.A  |07.03.2023|Veljkovic|45min|50min|
+| 4.A  |07.03.2023|Spycher|2x 45min||
 | 5.A  |07.03.2023|Jesenko|45min|30min|
-| 5.B  |07.03.2023|Oesch|45min| |
-| 6.A  |07.03.2023|Jesenko|45min| |
+| 5.B  |07.03.2023|Oesch|45min|30min|
+| 6.A  |07.03.2023|Jesenko|45min|90min|
 | 7.A  |07.03.2023|Jesenko|45min| |
 | 8.A  |14.03.2023|Veljkovic|45min| |
-| 9.A  |14.03.2023|Oesch|45min| |
+| 9.A  |14.03.2023|Oesch|45min|20min|
 |10.A  |14.03.2023|Jesenko|45min| |
 |11.A  |14.03.2023|Spycher|45min| |
 |12.A  |14.03.2023|Jesenko|45min| |
@@ -137,8 +137,8 @@ Wir haben uns dazu entschieden, das wir keine weiteren Funktionen hinzufügen, w
 |14.B  |21.03.2023|Jesenko|45min| |
 |15.A  |21.03.2023|Veljkovic|45min| |
 |15.B  |21.03.2023|Veljkovic|45min| |
-|16.A  |21.03.2023|Jesenko|45min| |
-|17.A  |21.03.2023|Oesch|45min| |
+|16.A  |21.03.2023|Jesenko|45min|30min|
+|17.A  |21.03.2023|Oesch|45min|20min|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
