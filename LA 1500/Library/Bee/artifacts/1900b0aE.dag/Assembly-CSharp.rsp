@@ -373,8 +373,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 "Assets/Enemymovement.cs"
+"Assets/finish.cs"
 "Assets/Live.cs"
 "Assets/Movement.cs"
+"Assets/ProjectileMovementScript.cs"
+"Assets/ProjectileScript.cs"
+"Assets/WaypointFollower.cs"
+"Assets/Weapon.cs"
 -langversion:9.0
 
 /deterministic
