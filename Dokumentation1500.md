@@ -4,7 +4,7 @@ Poppy Jesenko, Oesch, Spycher und Veljkovic
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|21.02.2022| 0.0.1|Wir haben uns heute zuerst etwas in der Gruppe kennengelernt, in einer zweiten Phase haben wir uns entschieden, dass wir ein 2D jump and run spiel machen wollen.|
+|21.02.2022| 0.0.1|Wir haben uns heute zuerst etwas in der Gruppe kennengelernt, in einer zweiten Phase haben wir uns entschieden, dass wir ein 2D Jump & Run spiel machen wollen.|
 | 28.02.2022      | 0.2.2     |   Wir haben die User Stories, Testfälle und Planen fertiggestellt und haben schon mit dem Realisieren begonnen.    |
 | 07.03.2022      | 0.5.3     |   Wir haben die ersten Level designt, der Spieler hat jetzt eine Health Bar und wir hatten am Anfang viel Probleme beim Sharen des Projekts. |
 |       | 1.0.0   |                                                              |
@@ -13,10 +13,10 @@ Poppy Jesenko, Oesch, Spycher und Veljkovic
 
 ### 1.1 Ihr Projekt
 
-Wir machen ein 2D jump and run in Unity.
+Wir machen ein 2D Jump & Run in Unity.
 
  
-Wir haben vor ein 2D jump and run in Unity zu machen, wir haben uns gedacht, dass wir zuerst ein kleines 2D spiel, machen, indem ein Spieler von Plattform zu Plattform springen kann, wenn wir das geschafft haben, ist unser Ziel das wir ein 2D Jump and Run machen mit mehreren Leveln indem es Gegner gibt, die der Spieler auch bekämpfen kann. Unser Ziel ist es dabei zu lernen wie man ein Spiel in Unity programmiert.
+Wir haben vor ein 2D Jump & Run in Unity zu machen, wir haben uns gedacht, dass wir zuerst ein kleines 2D spiel, machen, indem ein Spieler von Plattform zu Plattform springen kann, wenn wir das geschafft haben, ist unser Ziel das wir ein 2D Jump & Run machen mit mehreren Leveln indem es Gegner gibt, die der Spieler auch bekämpfen kann. Unser Ziel ist es dabei zu lernen, wie man ein Spiel in Unity programmiert.
 
 ### 1.2 User Stories
 
@@ -28,17 +28,17 @@ Wir haben vor ein 2D jump and run in Unity zu machen, wir haben uns gedacht, das
 | 4    |Kann             |Qualität|Als User möchte ich, dass die Plattformen Texturen haben, damit das Spiel für mich schöner aussieht.|
 | 5    |Kann             |Qualität|Als User möchte ich, dass es Gegner gibt, damit das Spiel für mich schwieriger ist.|
 | 6    |Kann             |Qualität|Als User möchte ich, dass ich eine Waffe habe, damit ich gegen die Gegner kämpfen kann.|
-| 7    |Kann             |Qualität|Als User möchte ich, dass wenn ich ein Level fertig gespielt habe dass ich ins Menu komme.|
+| 7    |Kann             |Qualität|Als User möchte ich, dass wenn ich ein Level fertig gespielt habe, dass ich ins Menu komme.|
 | 8    |Kann             |Qualität|Als User möchte ich, dass jedes Level ein anderes Thema hat, damit das Spiel für mich interessanter wird.|
 | 9    |Kann             |Qualität|Als User möchte ich, dass es bewegende Plattformen gibt, damit das Spiel für mich interessanter wird.|
 |10    |Kann             |Qualität|Als User möchte ich, dass ich am Anfang auswählen kann, welches Level ich spielen will.|
-|11    |Kann             |Qualität|Als User möchte ich, dass wenn ich ein Level fertig habe das ich ein neues Level auswählen kann oder das Level nöchmal in einer schwereren Version spielen kann, damit das Spiel interessanter ist.|
-|12    |Kann             |Qualität|Als User möchte ich, dass ich mehrere Waffen habe die ich verwenden kann und unterschiedlichen Schaden machen, damit es interessanter WIrd.|
-|13    |Kann             |Qualität|Als User möchte ich, dass man eine Healthbar hat, damit man sterben kann aber nicht direkt stirbt.|
-|14    |Kann             |Qualität|Als User möchte ich, dass es einen Shopkeeper gibt bei dem man neue Items, Heilung und anderes gibt, damit .|
-|15    |Kann             |Qualität|Als User möchte ich, dass die Gegner eine Währung dropen die man aufsammeln kann und verwenden kann, damit man stärker wird.|
-|16    |Kann             |Qualität|Als User möchte ich, dass es einen Gegener gibt der auf ein Spieler zuläuft und sich dann selbst in die Luft jagt, damit man ausweichen muss.|
-|17    |Kann             |Qualität|Als User möchte ich, dass es einen Gegener gibt der fliegt und von weit weg schiesst, damit man zielen muss.|
+|11    |Kann             |Qualität|Als User möchte ich, dass wenn ich ein Level fertig habe, dass ich ein neues Level auswählen kann oder das Level nochmal in einer schwereren Version spielen kann, damit das Spiel interessanter ist.|
+|12    |Kann             |Qualität|Als User möchte ich, dass ich mehrere Waffen habe, die ich verwenden kann und unterschiedlichen Schaden machen, damit es interessanter wird.|
+|13    |Kann             |Qualität|Als User möchte ich, dass man eine Healthbar hat, damit man sterben kann, aber nicht direkt stirbt.|
+|14    |Kann             |Qualität|Als User möchte ich, dass es einen Shopkeeper gibt bei dem man neue Items, Heilung und anderes gibt, damit.|
+|15    |Kann             |Qualität|Als User möchte ich, dass die Gegner eine Währung dropen, die man aufsammeln kann und verwenden kann, damit man stärker wird.|
+|16    |Kann             |Qualität|Als User möchte ich, dass es einen Gegner gibt, der auf ein Spieler zuläuft und sich dann selbst in die Luft jagt, damit man ausweichen muss.|
+|17    |Kann             |Qualität|Als User möchte ich, dass es einen Gegner gibt, der fliegt und von weit weg schiesst, damit man zielen muss.|
 
 
 
@@ -53,17 +53,17 @@ Wir haben vor ein 2D jump and run in Unity zu machen, wir haben uns gedacht, das
 | 4.1 |   Spiel gestartet           |     -    |          Texturen sichtbar         |
 | 5.1 |   Spiel gestartet und sich durch das Level bewegt.           |     A/D/Space    |          Monster erscheinen        | 
 | 6.1 |   Waffe eingesammelt           |    Linksklick/Rechtsklick     |     Waffe verursacht Schaden an Gegnern und kann diese Töten.          |
-| 7.1 |   Level abgeschlossen           |    -     |          Spieler wird wieder ins Menu gebracht um ein neues Level zu spielen.         |
+| 7.1 |   Level abgeschlossen           |    -     |          Spieler wird wieder ins Menu gebracht, um ein neues Level zu spielen.         |
 | 8.1 |   Level wird gestartet           |    -     | Level hat ein anderes Thema als das letzte Level.|
 | 9.1 |   Spieler spielt Spiel| - |Plattform bewegt sich|
-|10.1 | Spieler startet das Spiel| - |Level auswahl erscheint|
-|11.1 | Spieler beendet Level| - |Level auswahl erscheint|
+|10.1 | Spieler startet das Spiel| - |Level Auswahl erscheint|
+|11.1 | Spieler beendet Level| - |Level Auswahl erscheint|
 |12.1 | Spieler spielt Spiel|Taste für Waffe 1 wird gedrückt.|Schwert wird ausgewählt.|
 |12.2 | Spieler spielt Spiel|Taste für Waffe 2 wird gedrückt.|Bogen wird ausgewählt.|
 |13.1 | Spieler spielt Spiel| - |Healthbar wird angezeigt.|
-|13.2 | Spieler spielt Spiel| Spieler wird von Monster getroffen.| Healthbar wird nimmt ab.|
+|13.2 | Spieler spielt Spiel| Spieler wird von Monster getroffen.| Healthbar wird, nimmt ab.|
 |14.1 | Spieler geht zu Shopkeeper| Spieler drückt die interagieren Taste bei dem Shopkeeper|Shopmenü erscheint.|
-|14.2 | Spieler ist im Shopkeeper menü| Spieler drückt auf z.B. Heilung| Heilung wird dem Inventar des Spielers hinzugefügt.|
+|14.2 | Spieler ist im Shopkeeper menü| Spieler drückt auf z. B. Heilung| Heilung wird dem Inventar des Spielers hinzugefügt.|
 |15.1 | Spieler spielt Spiel| Spieler tötet Monster. |Monster lässt Währung fallen.|
 |16.1 | Spieler spielt Spiel| - | Monster läuft zu Spieler.|
 |16.2 | Spieler spielt Spiel| Spieler ist nahe am Monster.| Monster explodiert.|
@@ -113,7 +113,7 @@ Total:
 ## 3 Entscheiden
 
 
-Wir haben uns dazu entschieden, das wir keine weiteren Funktionen hinzufügen, weil die Umsetzung des Spiels in dieser Version sicher schon eine nicht ganz einfache Aufgabe wird.
+Wir haben uns dazu entschieden, dass wir keine weiteren Funktionen hinzufügen, weil die Umsetzung des Spiels in dieser Version sicher schon eine nicht ganz einfache Aufgabe wird.
 
 ## 4 Realisieren
 
