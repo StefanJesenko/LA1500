@@ -4,8 +4,8 @@ Poppy Jesenko, Oesch, Spycher und Veljkovic
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|21.02.2022| 0.0.1|Wir haben uns heute zuerst etwas in der Gruppe kennengelernt, in einer zweiten Phase haben wir uns entschieden, dass wir ein 2D Jump & Run spiel machen wollen.|
-| 28.02.2022      | 0.2.2     |   Wir haben die User Stories, Testfälle und Planen fertiggestellt und haben schon mit dem Realisieren begonnen.    |
+|21.02.2022| 0.0.1|Wir haben uns heute zuerst etwas in der Gruppe kennengelernt, in einer zweiten Phase haben wir uns entschieden, dass wir ein 2D Jump & Run Spiel machen wollen.|
+| 28.02.2022      | 0.2.2     |   Wir haben die User Storys, Testfälle und Planen fertiggestellt und haben schon mit dem Realisieren begonnen.    |
 | 07.03.2022      | 0.5.3     |   Wir haben die ersten Level designt, der Spieler hat jetzt eine Health Bar und wir hatten am Anfang viel Probleme beim Sharen des Projekts. |
 |       | 1.0.0   |                                                              |
 
@@ -49,10 +49,10 @@ Wir haben vor ein 2D Jump & Run in Unity zu machen, wir haben uns gedacht, dass 
 | 1.1 |      Spiel gestartet        |     -    |         Spieler erscheint in einer Spielwelt.         |
 | 1.2 |      Spiel wurde gestartet       |     A/D gedrückt    |          A -> Spieler läuft nach links, D -> Spieler läuft nach rechts.         |
 | 2.1 |      Spiel wurde gestartet        |    Spacebar wurde gedrückt     |         Spieler springt vom Boden in die Luft und fällt wieder nach unten.          |
-| 3.1 |   Spiel wurde seit einiger Zeit gespielt und alle Anforderungen sind erfüllt |   Level verlassen durch Tür oder Ähnliches |  Spieler wird gelobt.        |
+| 3.1 |   Spiel wurde seit einiger Zeit gespielt und alle Anforderungen sind erfüllt |   Level verlassen durch Tür oder Ähnliches |  Spieler kommt ins nächste Level.|
 | 4.1 |   Spiel gestartet           |     -    |          Texturen sichtbar         |
 | 5.1 |   Spiel gestartet und sich durch das Level bewegt.           |     A/D/Space    |          Monster erscheinen        | 
-| 6.1 |   Waffe eingesammelt           |    Linksklick/Rechtsklick     |     Waffe verursacht Schaden an Gegnern und kann diese Töten.          |
+| 6.1 |   Waffe erhalten           |    Linksklick/Rechtsklick     |     Waffe verursacht Schaden an Gegnern und kann diese Töten.          |
 | 7.1 |   Level abgeschlossen           |    -     |          Spieler wird wieder ins Menu gebracht, um ein neues Level zu spielen.         |
 | 8.1 |   Level wird gestartet           |    -     | Level hat ein anderes Thema als das letzte Level.|
 | 9.1 |   Spieler spielt Spiel| - |Plattform bewegt sich|
@@ -108,7 +108,7 @@ Total:
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
@@ -124,11 +124,11 @@ Wir haben uns dazu entschieden, dass wir keine weiteren Funktionen hinzufügen, 
 | 3.A  |07.03.2023|Veljkovic|45min|50min|
 | 4.A  |07.03.2023|Spycher|2x 45min||
 | 5.A  |07.03.2023|Jesenko|45min|30min|
-| 5.B  |07.03.2023|Oesch|45min|30min|
+| 5.B  |07.03.2023|Jesenko|45min|30min|
 | 6.A  |07.03.2023|Jesenko|45min|90min|
 | 7.A  |07.03.2023|Jesenko|45min| |
-| 8.A  |14.03.2023|Veljkovic|45min| |
-| 9.A  |14.03.2023|Oesch|45min|20min|
+| 8.A  |14.03.2023|Veljkovic|45min|45min|
+| 9.A  |14.03.2023|Jesenko|45min|20min|
 |10.A  |14.03.2023|Jesenko|45min| |
 |11.A  |14.03.2023|Spycher|45min| |
 |12.A  |14.03.2023|Jesenko|45min| |
@@ -138,7 +138,7 @@ Wir haben uns dazu entschieden, dass wir keine weiteren Funktionen hinzufügen, 
 |15.A  |21.03.2023|Veljkovic|45min| |
 |15.B  |21.03.2023|Veljkovic|45min| |
 |16.A  |21.03.2023|Jesenko|45min|30min|
-|17.A  |21.03.2023|Oesch|45min|20min|
+|17.A  |21.03.2023|Jesenko|45min|20min|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
@@ -148,9 +148,29 @@ Wir haben uns dazu entschieden, dass wir keine weiteren Funktionen hinzufügen, 
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |21.03.2023|OK|Stefan Jesenko|
+| 1.2  |21.03.2023|OK|Stefan Jesenko|
+| 2.1  |21.03.2023|OK|Stefan Jesenko|
+| 3.1  |21.03.2023|OK|Stefan Jesenko|
+| 4.1  |21.03.2023|NOK|Stefan Jesenko|
+| 5.1  |21.03.2023|OK|Stefan Jesenko|
+| 6.1  |21.03.2023|OK|Stefan Jesenko|
+| 7.1  |21.03.2023|NOK|Stefan Jesenko|
+| 8.1  |21.03.2023|OK|Stefan Jesenko|
+| 9.1  |21.03.2023|OK|Stefan Jesenko|
+|10.1  |21.03.2023|NOK|Stefan Jesenko|
+|11.1  |21.03.2023|NOK|Stefan Jesenko|
+|12.1  |21.03.2023|OK|Stefan Jesenko|
+|12.2  |21.03.2023|NOK|Stefan Jesenko|
+|13.1  |21.03.2023|OK|Stefan Jesenko|
+|13.2  |21.03.2023|OK|Stefan Jesenko|
+|14.1  |21.03.2023|NOK|Stefan Jesenko|
+|14.2  |21.03.2023|NOK|Stefan Jesenko|
+|15.1  |21.03.2023|NOK|Stefan Jesenko|
+|16.1  |21.03.2023|OK|Stefan Jesenko|
+|16.2  |21.03.2023|NOK|Stefan Jesenko|
+|17.1  |21.03.2023|OK|Stefan Jesenko|
+|17.2  |21.03.2023|OK|Stefan Jesenko|
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
