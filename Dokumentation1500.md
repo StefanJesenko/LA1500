@@ -172,7 +172,12 @@ Wir haben uns dazu entschieden, dass wir keine weiteren Funktionen hinzufügen, 
 |17.1  |21.03.2023|OK|Stefan Jesenko|
 |17.2  |21.03.2023|OK|Stefan Jesenko|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Es ist uns aufgefallen, dass es zu aufwändig wird Texturen hinzuzufügen.
+In unserem Spiel gibt es kein Level Menü, weil es aktuell so ist, dass man in unserem Spiel nach Abschluss eines Levels, automatisch in das nächste Level kommt.
+Man startet im ersten Level und es gibt keine schwereren und leichteren Level, sondern es gibt nur eine Schwierigkeitsstufe.
+Es gibt aktuell keine zweite Waffe in unserem Spiel.
+Es ist uns aufgefallen, dass es keinen Sinn ergibt, dass es im Spiel einen Shopkeeper gibt und somit haben wir auch die Währung entfernt, weil diese dann keine Funktion hat.
+Das Monster, das sich am Boden bewegt, schiesst auch Pfeile und explodiert nicht, weil das besser zum Spiel passt.
 
 ### 5.2 Exploratives Testen
 
