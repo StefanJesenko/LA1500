@@ -4,9 +4,13 @@ Poppy Jesenko, Oesch, Spycher und Veljkovic
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|21.02.2022| 0.0.1|Wir haben uns heute zuerst etwas in der Gruppe kennengelernt, in einer zweiten Phase haben wir uns entschieden, dass wir ein 2D Jump & Run Spiel machen wollen.|
-| 28.02.2022      | 0.2.2     |   Wir haben die User Storys, Testfälle und Planen fertiggestellt und haben schon mit dem Realisieren begonnen.    |
-| 07.03.2022      | 0.5.3     |   Wir haben die ersten Level designt, der Spieler hat jetzt eine Health Bar und wir hatten am Anfang viel Probleme beim Sharen des Projekts. |
+|21.02.2023| 0.0.1|Wir haben uns heute zuerst etwas in der Gruppe kennengelernt, in einer zweiten Phase haben wir uns entschieden, dass wir ein 2D Jump & Run Spiel machen wollen.|
+| 28.02.2023      | 0.2.2     |   Wir haben die User Storys, Testfälle und Planen fertiggestellt und haben schon mit dem Realisieren begonnen.    |
+| 07.03.2023      | 0.5.3     |   Wir haben die ersten Level designt, der Spieler hat jetzt eine Health Bar und wir hatten am Anfang viel Probleme beim Sharen des Projekts. |
+| 14.03.2023      | 0.5.3     |   . |
+| 21.03.2023      | 0.5.3     |   . |
+| 28.03.2023      | 0.5.3     |   . |
+| 04.04.2023      | 0.5.3     |   . |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
