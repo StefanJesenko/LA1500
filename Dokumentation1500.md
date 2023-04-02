@@ -7,9 +7,9 @@ Poppy Jesenko, Oesch, Spycher und Veljkovic
 |21.02.2023| 0.0.1|Wir haben uns heute zuerst etwas in der Gruppe kennengelernt, in einer zweiten Phase haben wir uns entschieden, dass wir ein 2D Jump & Run Spiel machen wollen.|
 | 28.02.2023      | 0.2.2     |   Wir haben die User Storys, Testfälle und Planen fertiggestellt und haben schon mit dem Realisieren begonnen.    |
 | 07.03.2023      | 0.5.3     |   Wir haben die ersten Level designt, der Spieler hat jetzt eine Health Bar und wir hatten am Anfang viel Probleme beim Sharen des Projekts. |
-| 14.03.2023      | 0.7.0     |   Es gibt jetzt einen ersten Gegner und Bewegende Plattformen|
-| 21.03.2023      | 0.0.0     |   . |
-| 28.03.2023      | 0.0.0     |   . |
+| 14.03.2023      | 0.7.0     |   Es gibt jetzt einen ersten Gegner und Bewegende Plattformen.|
+| 21.03.2023      | 0.11.5    |   Das Spiel ist jetzt Fertig, wir haben unsere Presentation vrobereitet.|
+| 28.03.2023      | 0.11.5     |   Wir haben unsere Presentation gehalten.|
 | 04.04.2023      | 0.0.0     |   . |
 |       | 1.0.0   |                                                              |
 
