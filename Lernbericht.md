@@ -3,7 +3,7 @@ Stefan Jasenko, Jonah Oesch, Elias Spycher und
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Wir haben in der Gruppe ein Jump and Run Spiel in Unity, einer Gameengine erstellt.
 
 ## Was habe ich gelernt?
 
@@ -24,7 +24,7 @@ Stefan Jasenko, Jonah Oesch, Elias Spycher und
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Wir konnten in der Gruppe sehr gut kommunizieren und miteinander arbeiten. Probleme konnten wir gemeinsam gut lösen
 
 👎 und etwas, was nicht gut lief.
 
