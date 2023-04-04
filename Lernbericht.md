@@ -12,7 +12,7 @@ Wie man einen `Gradient` in Unity benutzt.
 ## Beschreibung
 
 Ein `Gradient` kann benutzt werden, um die Farbe eines `image` Elements zu ändern.
-In unserem Spiel haben wir das gemacht, um besser darzustellen, wie viel Leben der Spieler noch hat, wenn die Lebensleiste voll ist, ist sie grün, nach einem Treffer wird sie gelb und dann rot. Ein `Gradient` kann fliessend oder fest von Farbe zu Farbe wechseln, bei uns wechselt der `Gradient` fest von Farbe zu Farbe, weil es besser zu unserem Spiel passt.
+In unserem Spiel haben wir das gemacht, um besser darzustellen, wie viel Leben der Spieler noch hat. Wenn die Lebensleiste voll ist, ist sie grün, nach einem Treffer wird sie gelb und dann rot. Ein `Gradient` kann fliessend oder fest von Farbe zu Farbe wechseln, bei uns wechselt der `Gradient` fest von Farbe zu Farbe, weil es besser zu unserem Spiel passt.
 
 <img width="264" alt="image" src="https://user-images.githubusercontent.com/110892250/229684401-3d51bc55-e084-45cb-949b-0a649878dd6b.png">
 
@@ -47,7 +47,7 @@ Text: Unser Text beschreibt, was ein `Gradient` ist und wofür man ihn benutzen 
 
 Bild: Unser Bild beschreibt, wie das Editierfenster des `Gradients` aussieht und wie man den `Gradient` unterteilen kann.
 
-Code: Unser Code beschreibt wie wir den `Gradient` benutzt haben und das man die Werte für den `Gradient` Normalisieren muss.
+Code: Unser Code beschreibt wie wir den `Gradient` benutzt haben und das man die Werte für den `Gradient` normalisieren muss.
 
 # Reflexion zum Arbeitsprozess
 
