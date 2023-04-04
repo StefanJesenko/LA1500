@@ -20,7 +20,7 @@ Poppy Jesenko, Oesch, Spycher und Veljkovic
 Wir machen ein 2D Jump & Run in Unity.
 
  
-Wir haben vor ein 2D Jump & Run in Unity zu machen, wir haben uns gedacht, dass wir zuerst ein kleines 2D spiel, machen, indem ein Spieler von Plattform zu Plattform springen kann, wenn wir das geschafft haben, ist unser Ziel das wir ein 2D Jump & Run machen mit mehreren Leveln indem es Gegner gibt, die der Spieler auch bekämpfen kann. Unser Ziel ist es dabei zu lernen, wie man ein Spiel in Unity programmiert.
+Wir haben vor ein 2D Jump & Run in Unity zu machen, wir haben uns gedacht, dass wir zuerst ein kleines 2D Spiel, machen, indem ein Spieler von Plattform zu Plattform springen kann, wenn wir das geschafft haben, ist unser Ziel das wir ein 2D Jump & Run machen mit mehreren Leveln indem es Gegner gibt, die der Spieler auch bekämpfen kann. Unser Ziel ist es dabei zu lernen, wie man ein Spiel in Unity programmiert.
 
 ### 1.2 User Stories
 
@@ -65,7 +65,7 @@ Wir haben vor ein 2D Jump & Run in Unity zu machen, wir haben uns gedacht, dass 
 |12.1 | Spieler spielt Spiel|Taste für Waffe 1 wird gedrückt.|Schwert wird ausgewählt.|
 |12.2 | Spieler spielt Spiel|Taste für Waffe 2 wird gedrückt.|Bogen wird ausgewählt.|
 |13.1 | Spieler spielt Spiel| - |Healthbar wird angezeigt.|
-|13.2 | Spieler spielt Spiel| Spieler wird von Monster getroffen.| Healthbar wird, nimmt ab.|
+|13.2 | Spieler spielt Spiel| Spieler wird von Monster getroffen.| Healthbar nimmt ab.|
 |14.1 | Spieler geht zu Shopkeeper| Spieler drückt die interagieren Taste bei dem Shopkeeper|Shopmenü erscheint.|
 |14.2 | Spieler ist im Shopkeeper menü| Spieler drückt auf z. B. Heilung| Heilung wird dem Inventar des Spielers hinzugefügt.|
 |15.1 | Spieler spielt Spiel| Spieler tötet Monster. |Monster lässt Währung fallen.|
