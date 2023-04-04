@@ -9,9 +9,9 @@ Poppy Jesenko, Oesch, Spycher und Veljkovic
 | 07.03.2023      | 0.5.3     |   Wir haben die ersten Level designt, der Spieler hat jetzt eine Health Bar und wir hatten am Anfang viel Probleme beim Sharen des Projekts. |
 | 14.03.2023      | 0.7.0     |   Es gibt jetzt einen ersten Gegner und Bewegende Plattformen.|
 | 21.03.2023      | 0.11.5    |   Das Spiel ist jetzt Fertig, wir haben unsere Presentation vrobereitet.|
-| 28.03.2023      | 0.11.5     |   Wir haben unsere Presentation gehalten.|
-| 04.04.2023      | 0.0.0     |   . |
-|       | 1.0.0   |                                                              |
+| 28.03.2023      | 1.0.0     |   Wir haben unsere Presentation gehalten.|
+| 04.04.2023      | 1.0.0     |   Heute haben wir unsere Projektdokumentation Fertig gestellt und den Lernbericht geschrieben.|
+
 
 ## 1 Informieren
 
@@ -110,8 +110,6 @@ Wir haben vor ein 2D Jump & Run in Unity zu machen, wir haben uns gedacht, dass 
 
 Total: 
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
 ## 3 Entscheiden
 
 
@@ -179,15 +177,7 @@ Es gibt aktuell keine zweite Waffe in unserem Spiel.
 Es ist uns aufgefallen, dass es keinen Sinn ergibt, dass es im Spiel einen Shopkeeper gibt und somit haben wir auch die Währung entfernt, weil diese dann keine Funktion hat.
 Das Monster, das sich am Boden bewegt, schiesst auch Pfeile und explodiert nicht, weil das besser zum Spiel passt.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+[Hier](Lernbericht.md) ist unser Lern-Bericht.
