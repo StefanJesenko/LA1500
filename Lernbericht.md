@@ -7,7 +7,7 @@ Wir haben in der Gruppe ein Jump and Run Spiel in Unity, einer Gameengine erstel
 
 ## Was haben wir gelernt?
 
-Wie man einen `Gradient` in Unity benutzt.
+Wie man einen `Gradient` in Unity erstellt und benutzt.
 
 ## Beschreibung
 
