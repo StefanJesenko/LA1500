@@ -1,5 +1,5 @@
 # Lern-Bericht
-Stefan Jesenko, Jonah Oesch, Elias Spycher und Simon Veljkovic
+Poppy: Stefan Jesenko, Jonah Oesch, Elias Spycher und Simon Veljkovic
 
 ## Einleitung
 
@@ -16,8 +16,8 @@ In unserem Spiel haben wir das gemacht, um besser darzustellen, wie viel Leben d
 
 <img width="264" alt="image" src="https://user-images.githubusercontent.com/110892250/229684401-3d51bc55-e084-45cb-949b-0a649878dd6b.png">
 
-Hier sieht man, wie das Fenster zur Erstellung eines `Gradients` aussieht. Man kann Punkte setzen um zu sagen in welchem Bereich es eine gewisse Farbe gibt.
-Bei der `Mode` Einstellung kann man den Farbwechsel auf `fixed` oder `blend` stellen, um zu verändern, wie der `Gradient` von Farbe zu Farbe geht.
+Hier sieht man, wie das Fenster zur Erstellung eines `Gradients` aussieht. Man kann Punkte setzen um zu bestimmen in welchem Bereich eine gewisse Farbe gesetzt wird.
+Bei der `Mode` Einstellung kann man den Farbwechsel auf `fixed` oder `blend` stellen, um zu verändern, wie der `Gradient` von einer Farbe zur anderen wechselt, mit dem `fixed` wird die Farbe abrupt verändert, bei einem `blend` existiert ein Übergang.
 
 ```C#
     public Slider slider;
@@ -53,11 +53,11 @@ Code: Unser Code beschreibt wie wir den `Gradient` benutzt haben und das man die
 
 Bei uns ist gut gelaufen:
 
-Wir konnten in der Gruppe sehr gut kommunizieren und miteinander arbeiten. Probleme konnten wir gemeinsam gut lösen.
+Wir konnten in der Gruppe sehr gut kommunizieren und miteinander arbeiten. Probleme konnten wir gemeinsam lösen und uns gegenseitig helfen.
 
 Bei uns ist nicht gut gelaufen:
 
-Weil wir es zuerst nicht geschafft haben unser Projekt zu teilen, damit wir alle daran arbeiten können, hat der Zeitplan nicht mehr funktioniert und wir mussten diesen anpassen.
+Weil wir es zuerst nicht geschafft haben unser Projekt zu teilen, damit wir alle daran arbeiten können, hat der Zeitplan nicht mehr funktioniert und wir mussten diesen anpassen. Somit konnten nicht alle geplanten Funktionen umsetzten.
 
 
 
