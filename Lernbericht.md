@@ -1,5 +1,5 @@
 # Lern-Bericht
-Stefan Jasenko, Jonah Oesch, Elias Spycher und 
+Stefan Jasenko, Jonah Oesch, Elias Spycher und Simon Velkijovic
 
 ## Einleitung
 
